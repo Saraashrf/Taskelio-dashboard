@@ -57,6 +57,7 @@ Open http://localhost:3000
   - `authSlice` for user info
   - `taskSlice` for task operations (add, update, delete, get)
 - On login, user and task data are fetched from the mock API and stored in Redux state.
+- Ensured fully responsive design for pages and components.
 
 ## 🎥 Demo
 https://youtu.be/JCMr6Vg49tE?si=3DXbsWvqFZ8Yf2k-
