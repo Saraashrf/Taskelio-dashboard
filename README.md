@@ -15,7 +15,7 @@ A fully functional task management dashboard built with **Next.js**, **Tailwind 
   - Delete functionality
   - Add Task functionality
 - Weekly and status-based analytics using charts (Recharts)
-- Fully responsive design
+- Fully responsive design including mobile-friendly design
 
 ---
 
