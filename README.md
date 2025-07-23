@@ -60,6 +60,6 @@ Open http://localhost:3000
 - Ensured fully responsive design for pages and components.
 
 ## 🎥 Demo
-https://youtu.be/JCMr6Vg49tE?si=3DXbsWvqFZ8Yf2k-
-
+[https://youtu.be/JCMr6Vg49tE?si=3DXbsWvqFZ8Yf2k-
+](https://youtu.be/P_wPzE1JQGI)
 
