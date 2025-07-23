@@ -48,4 +48,14 @@ npm run dev
 4. **Visit the dashboard**
 Open http://localhost:3000
 
+## 🧠 Implementation Approach
+
+- The app is split into two main pages: **Login** and **Dashboard**.
+- Used **Next.js API Routes** to simulate backend logic and store data in memory (arrays).
+- The **Dashboard** is composed of smaller components (Sidebar, TaskTable, Charts, etc.), each styled with **Tailwind CSS** and built with isolated logic.
+- Utilized **Redux Toolkit**:
+  - `authSlice` for user info
+  - `taskSlice` for task operations (add, update, delete, get)
+- On login, user and task data are fetched from the mock API and stored in Redux state.
+
 
